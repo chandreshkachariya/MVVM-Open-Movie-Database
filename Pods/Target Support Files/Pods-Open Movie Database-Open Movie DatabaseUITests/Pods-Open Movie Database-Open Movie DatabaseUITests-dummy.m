@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Open_Movie_Database_Open_Movie_DatabaseUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Open_Movie_Database_Open_Movie_DatabaseUITests
+@end
